@@ -9,10 +9,11 @@ This project showcases the following technologies:
 - Showcases of using ReactJS, Redux, ExpressJS and MongoDB.
 
 # Features
-- Sign in the Google+;
+- Sign in with Google+;
 - Add credits to account using credit card payment;
-- Create a survey and send emails to a list of customers;
+- Create a survey (which costs 1 credit) and send emails to a list of customers;
 - Get statistics when customers click links in the email;
+- Browse a list of previous surveys.
 
 # Demo site
 Check out the live demo at [https://damp-woodland-11061.herokuapp.com/](https://damp-woodland-11061.herokuapp.com/) for more information.
