@@ -8,6 +8,12 @@ This project showcases the following technologies:
 - Integration with [sendgrid.com](sendgrid.com) sendgrid.com for sending marketing emails;
 - Showcases of using ReactJS, Redux, ExpressJS and MongoDB.
 
+# Features
+- Sign in the Google+;
+- Add credits to account using credit card payment;
+- Create a survey and send emails to a list of customers;
+- Get statistics when customers click links in the email;
+
 # Demo site
 Check out the live demo at [https://damp-woodland-11061.herokuapp.com/](https://damp-woodland-11061.herokuapp.com/) for more information.
 Use the following test credit card: 
